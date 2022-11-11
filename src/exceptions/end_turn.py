@@ -1,0 +1,2 @@
+class EndTurn(Exception):
+    pass
